@@ -1,8 +1,4 @@
 # PRODIGY_DS-03
-# 🧠 Task-03: Decision Tree Classifier - Bank Marketing Dataset
-
-🔍 **Internship Task**  
-As part of my Data Science Internship at **Prodigy InfoTech**, I built a Decision Tree Classifier to predict whether a customer will subscribe to a term deposit based on demographic and behavioral features.
 
 ## 📌 Project Objective
 
@@ -28,5 +24,9 @@ To explore the **Bank Marketing Dataset** from the UCI Machine Learning Reposito
 3. Open the Python script in `notebooks/decision_tree_classifier.py`  
 4. Run the code to see model training, evaluation, and visualizations
 
-```bash
-python decision_tree_classifier.py
+## Output
+Accuracy: ~88%
+Confusion Matrix:
+<img width="1241" height="607" alt="image" src="https://github.com/user-attachments/assets/5c6d7370-902d-4906-a762-10c8e5666741" />
+
+
